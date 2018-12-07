@@ -1,0 +1,77 @@
+@import url(components/navbar.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+/*.tagline {
+	font-size: 35px;
+	color: red;
+	font-family: 'Open Sans', sans-serif;
+	text-align: center;
+}*/
+/*h2{margin-top: 40px;}*/
+
+body{
+	background-image: images/fond.jpg; 
+	margin: 0px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+h1 {
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 40px;
+}
+
+.background-blue {
+	background-color: #3D98B2;
+	height: 150px;
+	padding: 30px;
+	color: white ;
+
+}
+
+.hd1 {
+	display: flex;
+}
+
+
+#name {
+	width: 300px;
+	height: 40px;
+	border-radius: 30px;
+	opacity: 0.8;
+	border: none;
+	padding:15px;
+}
+
+ul {list-style: none ;
+padding: 0px;
+}
+
+ul> li{
+	display:inline;
+}
+
+.social-icon {
+	color: white;
+	font-size: 25px;
+	margin-top: 40px;
+}
+
+.social-icon:hover {
+	color: #3D98B2;
+}
+
+
+
+
+
+
+

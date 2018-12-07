@@ -1,0 +1,40 @@
+.navbar {
+	display: flex;
+	font-family: "avenir";
+	align-items: center;
+	justify-content: space-between;
+	height: 60px;
+	background-color: #3D98B2;
+	color: white;
+	padding: 20px;
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+
+}
+
+.title {
+	font-size: 24px ;
+padding-left: 200px;}
+
+.logounicar {
+	width:100px;
+height:100px;
+margin-top: 6px;}
+
+
+
+.list-navbar li {
+	padding: 10px;
+
+
+}
+
+.list-navbar {
+		margin:0px !important;
+		padding-right: 15px; 
+}
+
+.list-navbar li:hover {
+	color: black;
+}

@@ -1,0 +1,131 @@
+
+.banner{
+	background-image: linear-gradient(rgba(0,0,0, 0.5), rgba(0,0,0, 0.5)), url(http://openwalls.com/image/29796/humid_city_road_1600x900.jpg);
+	height: calc(100vh - 198px);
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	font-family: 'Titillium Web', sans-serif;
+	position: relative;
+
+	/*flex-direction: column;*/
+}
+
+.banner-signup {
+	background-image: linear-gradient(to right, rgba(127,127,213, 0.5), rgb(134,168,231,0.5),rgb(145,234,228,0.5) ), url(https://www.mockupworld.co/wp-content/uploads/edd/2017/01/free-iphone-mockup-hand-psd-1000x576.jpg);
+	height: 350px;
+	background-size: cover;
+}
+
+.montageiphone {
+ 	height: 400px;
+ 	margin-top: 20px;
+ 	position: absolute;
+ 	bottom: 0px;
+ }
+
+ .banner2 {
+ 	padding: 40px 110px;
+ 	display: flex;
+ 	font-family: "Avenir";
+	text-align: left;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.banner2, .background-grey {
+	padding: 80px;
+
+}
+
+.tel2 {height: 300px;
+	align-items: right;
+	padding-left: 30px;
+}
+
+.passager{
+	padding-left: 140px;
+	font-size: 22px;
+	margin-top: -60px;
+	margin-bottom: -60px;
+}
+
+.conducteur { padding-right: 140px;
+	padding-left: 38px;
+	font-size: 22px;
+	margin-top: -60px;
+	margin-bottom: -60px;
+}
+ 
+.background-grey {
+	background-color: #F1F4F5;
+ }
+
+ 
+
+ .tel3 {
+	height: 300px;
+	align-items: right;
+	padding-right: 30px;
+}
+
+.avis {
+	font-family: 'avenir';
+	padding-left: 30px;
+	padding-top: 60px;
+	padding-left: 35px;
+	font-size: 2rem;
+	margin-bottom: -10px;
+	
+}
+
+.olivia {
+	border-radius: 60px;
+	height: 110px;
+}
+
+.banner-signup {
+	padding: 40px 110px;
+ 	display: flex;
+ 	font-family: "Avenir";
+	text-align: left;
+	align-items: center;
+	justify-content: space-between;
+	color: white;
+	justify-content: center;
+	flex-direction: column;
+}
+
+.typeform-share {text-shadow: 2px 2px #3D98B2;
+	background-color: #F1F4F5;	
+}
+
+
+.banner2, background-grey {
+	font-size: 24px;
+}
+
+ul {list-style: none ;
+padding: 60px;
+}
+
+ul> li{
+	display:inline;
+	}
+.title1 {
+	color: white;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 41px;
+	position: absolute;
+	top: 11%;
+	 left: 0; 
+	  right: 0; 
+	  margin-left: auto; 
+	  margin-right: auto;
+	  width: 500px;
+	 /* background-color: rgba(0,0,0, 0.5);*/
+
+}
+
